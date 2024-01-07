@@ -1,6 +1,6 @@
 # Hi there!, I'm Ainu Azzaria 👋🏻
 - 19 years old
-- Domiciled [Malang, East Java, Indonesia]
+- Domiciled [Malang, East Java, Indonesia](https://goo.gl/maps/h3RJSPyYnfh77Lgm7)
 - Graduated Student batch 29 of [SMK Telkom Sandhy Putra Malang](https://www.smktelkom-mlg.sch.id)
 - Student at [Ma Chung University](https://machung.ac.id/)
   
