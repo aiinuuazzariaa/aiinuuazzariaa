@@ -35,7 +35,7 @@
 
 ## 📞 Contact Me
 [![Gmail Badge](https://img.shields.io/badge/-ainu.azzaria@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ainu.azzaria@gmail.com)](mailto:ainu.azzaria@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/aiinuuazzariaa--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aiinuuazzariaa)](https://www.linkedin.com/in/aiinuuazzariaa)
+[![Linkedin Badge](https://img.shields.io/badge/aiinuuazzariaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aiinuuazzariaa)](https://www.linkedin.com/in/aiinuuazzariaa)
 
 <div align="center">
     <h4 align="center">Made with &nbsp;🩷&nbsp; by <a href="https://instagram.com/aiinuuazzariaa">Ainu Azzaria</a></h4>
