@@ -15,7 +15,7 @@
   </a>
   <a href="https://twitter.com/chocoocandyyz">
     <img
-      src="https://img.shields.io/badge/chocoocandyyz-informational?label=&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      src="https://img.shields.io/badge/chocoocandyyz-1DA1F2?style=flat-square&logo=twitter&logoColor=ffffff"
       alt="Twitter"
     />
   </a>
