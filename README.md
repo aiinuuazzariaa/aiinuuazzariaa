@@ -8,7 +8,7 @@
 <div align="left">
     <a href="https://instagram.com/aiinuuazzaria">
     <img
-      src="https://img.shields.io/badge/aiinuuazzariaa-critical?label=&logo=instagram&style=flat-square&logoColor=ffffff"
+      src="https://img.shields.io/badge/aiinuuazzariaa-E4405F?style=flat-square&logo=instagram&logoColor=ffffff"
       alt="Instagram"
     />
   </a>
