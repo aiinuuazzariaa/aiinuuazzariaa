@@ -1,4 +1,7 @@
 # Hi there!, I'm Ainu Azzaria 
+
+A student at the Ma Chung University Malang program S1 Information Systems with deep time discipline finish the job. Has communication and public good speaking, can negotiate effectively and understand market opportunities correctly.
+
 - 19 years old
 - Domiciled [Malang, East Java, Indonesia](https://goo.gl/maps/h3RJSPyYnfh77Lgm7)
 - Graduated Student batch 29 of [SMK Telkom Sandhy Putra Malang](https://www.smktelkom-mlg.sch.id)
