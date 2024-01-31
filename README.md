@@ -33,7 +33,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-## 📞 Contact Me
+## Contact Me
 [![Gmail Badge](https://img.shields.io/badge/ainu.azzaria@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:ainu.azzaria@gmail.com)](mailto:ainu.azzaria@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/aiinuuazzariaa-0077B5?style=flat-squar&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aiinuuazzariaa)](https://www.linkedin.com/in/aiinuuazzariaa)
 
