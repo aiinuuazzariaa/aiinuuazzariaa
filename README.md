@@ -1,10 +1,10 @@
-# Hi there!, I'm Ainu Azzaria 👋🏻
+# Hi there!, I'm Ainu Azzaria 
 - 19 years old
 - Domiciled [Malang, East Java, Indonesia](https://goo.gl/maps/h3RJSPyYnfh77Lgm7)
 - Graduated Student batch 29 of [SMK Telkom Sandhy Putra Malang](https://www.smktelkom-mlg.sch.id)
 - Student at [Ma Chung University](https://machung.ac.id/)
   
-## 💌 Social Media 
+## Social Media 
 <div align="left">
     <a href="https://instagram.com/aiinuuazzaria">
     <img
@@ -21,7 +21,7 @@
   </a>
 </div>
 
-## 🛠 Languages and Tools
+## Languages and Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=ffffff)
