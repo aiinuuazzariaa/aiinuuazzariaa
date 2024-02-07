@@ -1,6 +1,6 @@
 # Hi there!, I'm Ainu Azzaria 
 
-A student at the Ma Chung University Malang program S1 Information Systems with deep time discipline finish the job. Has communication and public good speaking, can negotiate effectively and understand market opportunities correctly.
+A student at Ma Chung University, Malang, Bachelor of Information Systems program with deep time discipline completed her work. Have an interest in Webiste Development, such as Frontend Web Development, and have good communication and public speaking skills.
 
 - 19 years old
 - Domiciled [Malang, East Java, Indonesia](https://goo.gl/maps/h3RJSPyYnfh77Lgm7)
@@ -25,9 +25,10 @@ A student at the Ma Chung University Malang program S1 Information Systems with 
 </div>
 
 ## Languages and Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)
-![HTML](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
