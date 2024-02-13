@@ -25,9 +25,9 @@ A student at Ma Chung University, Malang, Bachelor of Information Systems progra
 </div>
 
 ## Portofolio
-[Pesen Kamar](https://www.pesenkamar.com/) project by [PT. Vokasi Indonesia Sejahtera](https://vokanesia.id/)
-[Quantum Book](https://www.quantumbook.id/) project by [PT. Vokasi Indonesia Sejahtera](https://vokanesia.id/)
-[UI/UX Lavanya Laundry](https://www.figma.com/file/ElzD0is31Wd5eqy4tm87dP/UAS-UI%2FUX-Laundry?type=design&node-id=197%3A2&mode=design&t=ZG3290sL5G7pW2Vo-1)
+- [Pesen Kamar](https://www.pesenkamar.com/) project by [PT. Vokasi Indonesia Sejahtera](https://vokanesia.id/)
+- [Quantum Book](https://www.quantumbook.id/) project by [PT. Vokasi Indonesia Sejahtera](https://vokanesia.id/)
+- [UI/UX Lavanya Laundry](https://www.figma.com/file/ElzD0is31Wd5eqy4tm87dP/UAS-UI%2FUX-Laundry?type=design&node-id=197%3A2&mode=design&t=ZG3290sL5G7pW2Vo-1)
 
 ## Languages
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=ffffff)
