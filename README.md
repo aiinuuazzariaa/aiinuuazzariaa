@@ -1,11 +1,11 @@
 # Hi there!, I'm Ainu Azzaria 
 
-A student at Ma Chung University, Malang, Bachelor of Information Systems program with deep time discipline completed her work. Have an interest in Webiste Development, such as Frontend Web Development, and have good communication and public speaking skills.
+A student at Machung University, Malang, Bachelor of Information Systems program with deep time discipline completed her work. Have an interest in Webiste Development, such as Frontend Web Development, and have good communication and public speaking skills.
 
 - 19 years old
 - Domiciled [Malang, East Java, Indonesia](https://goo.gl/maps/h3RJSPyYnfh77Lgm7)
 - Graduated Student batch 29 of [SMK Telkom Sandhy Putra Malang](https://www.smktelkom-mlg.sch.id)
-- Student at [Ma Chung University](https://machung.ac.id/)
+- Student at [Machung University](https://machung.ac.id/)
   
 ## Social Media 
 <div align="left">
