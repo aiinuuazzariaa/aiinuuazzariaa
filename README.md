@@ -16,12 +16,6 @@ A undergraduate in Information Systems, who always expand experiences and knowle
     />
   </a>
   </a>
-  <a href="https://twitter.com/chocoocandyyz">
-    <img
-      src="https://img.shields.io/badge/chocoocandyyz-1DA1F2?style=flat-square&logo=twitter&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
 </div>
 
 ## Portofolio
