@@ -1,6 +1,6 @@
 # Hi there!, I'm Ainu Azzaria 
 
-A student at Machung University, Malang, Bachelor of Information Systems program with deep time discipline completed her work. Have an interest in Webiste Development, such as Frontend Web Development, and have good communication and public speaking skills.
+A undergraduate in Information Systems, who always expand experiences and knowledge. A well-rounded person who has an interest in the UI/UX Design. Also known as an active and hard-working college student which loves to collaborate in diverse environments. Looking for job opportunities that provide opportunities to develop into a professional career.
 
 - 19 years old
 - Domiciled [Malang, East Java, Indonesia](https://goo.gl/maps/h3RJSPyYnfh77Lgm7)
@@ -27,7 +27,10 @@ A student at Machung University, Malang, Bachelor of Information Systems program
 ## Portofolio
 - [Pesen Kamar](https://www.pesenkamar.com/) project by [PT. Vokasi Indonesia Sejahtera](https://vokanesia.id/)
 - [Quantum Book](https://www.quantumbook.id/) project by [PT. Vokasi Indonesia Sejahtera](https://vokanesia.id/)
-- [UI/UX Lavanya Laundry](https://www.figma.com/file/ElzD0is31Wd5eqy4tm87dP/UAS-UI%2FUX-Laundry?type=design&node-id=197%3A2&mode=design&t=ZG3290sL5G7pW2Vo-1)
+- [Ma Chung University Website Design](https://www.figma.com/design/DRmhL4vO06SnbG2B6i1FYJ/KB-3-UI-%2F-UX?node-id=0-1&t=RjY1w7oOM57H0Ssd-1)
+- [Lavanya Laundry Website Design](https://www.figma.com/file/ElzD0is31Wd5eqy4tm87dP/UAS-UI%2FUX-Laundry?type=design&node-id=197%3A2&mode=design&t=ZG3290sL5G7pW2Vo-1)
+- [Erigo Store E-Commerce Website Design](https://www.figma.com/design/wvWoix55q5fAJJvUha8lmB/Erigo?node-id=7-7&t=FM35NBgh3guaOmGa-1)
+- [FindPhone Website Design](https://www.figma.com/design/nsr7BgdrWhiqP7Fg9MFQkg/FindPhone.?node-id=1-2&t=VZI9qYfX7dE1a9Oz-1)
 
 ## Languages
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=ffffff)
