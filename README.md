@@ -5,7 +5,7 @@ A undergraduate in Information Systems, who always expand experiences and knowle
 - 19 years old
 - Domiciled [Malang, East Java, Indonesia](https://goo.gl/maps/h3RJSPyYnfh77Lgm7)
 - Graduated Student batch 29 of [SMK Telkom Sandhy Putra Malang](https://www.smktelkom-mlg.sch.id)
-- Student at [Machung University](https://machung.ac.id/)
+- Undergraduate Information Systems at [Machung University](https://machung.ac.id/)
   
 ## Social Media 
 <div align="left">
