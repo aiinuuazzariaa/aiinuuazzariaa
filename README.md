@@ -2,7 +2,7 @@
 
 A undergraduate in Information Systems, who always expand experiences and knowledge. A well-rounded person who has an interest in the UI/UX Design. Also known as an active and hard-working college student which loves to collaborate in diverse environments. Looking for job opportunities that provide opportunities to develop into a professional career.
 
-- 19 years old
+- 20 years old
 - Domiciled [Malang, East Java, Indonesia](https://goo.gl/maps/h3RJSPyYnfh77Lgm7)
 - Graduated Student batch 29 of [SMK Telkom Sandhy Putra Malang](https://www.smktelkom-mlg.sch.id)
 - Undergraduate Information Systems at [Machung University](https://machung.ac.id/)
@@ -21,10 +21,12 @@ A undergraduate in Information Systems, who always expand experiences and knowle
 ## Portofolio
 - [Pesen Kamar](https://www.pesenkamar.com/) project by [PT. Vokasi Indonesia Sejahtera](https://vokanesia.id/)
 - [Quantum Book](https://www.quantumbook.id/) project by [PT. Vokasi Indonesia Sejahtera](https://vokanesia.id/)
-- [Ma Chung University Website Design](https://www.figma.com/design/DRmhL4vO06SnbG2B6i1FYJ/KB-3-UI-%2F-UX?node-id=0-1&t=RjY1w7oOM57H0Ssd-1)
-- [Lavanya Laundry Website Design](https://www.figma.com/file/ElzD0is31Wd5eqy4tm87dP/UAS-UI%2FUX-Laundry?type=design&node-id=197%3A2&mode=design&t=ZG3290sL5G7pW2Vo-1)
-- [Erigo Store E-Commerce Website Design](https://www.figma.com/design/wvWoix55q5fAJJvUha8lmB/Erigo?node-id=7-7&t=FM35NBgh3guaOmGa-1)
-- [FindPhone Website Design](https://www.figma.com/design/nsr7BgdrWhiqP7Fg9MFQkg/FindPhone.?node-id=1-2&t=VZI9qYfX7dE1a9Oz-1)
+- [Ma Chung University Website Design](https://www.figma.com/design/DRmhL4vO06SnbG2B6i1FYJ/KB-3-UI---UX?node-id=338-2&t=GiDmc0EMHTWjHeRh-1)
+- [Lavanya Laundry Website Design](https://www.figma.com/design/ElzD0is31Wd5eqy4tm87dP/Lavanya-Laundry?node-id=197-2&t=5QXw4JLilmZ7A2nm-1)
+- [Erigo Store E-Commerce Website Design](https://www.figma.com/design/wvWoix55q5fAJJvUha8lmB/Erigo?node-id=7-7&t=eWudH7o6KPqbflRd-1)
+- [FindPhone Website Design](https://www.figma.com/design/nsr7BgdrWhiqP7Fg9MFQkg/FindPhone.?node-id=1-2&t=ZutpGSQwDq3IGvSj-1)
+- [Zocco Cafe Design](https://www.figma.com/design/oPyECfQgnWDiy44UkyfMB8/Zocco?node-id=20-237&t=ptnqi5KBF0x6XeuX-1)
+- [GroPerti Website Design](https://www.figma.com/design/LGiQI9dfwd78vLHnbHWwSv/GroPerti?node-id=0-1&t=WH0gq7fFlzGfQy1t-1) project by [GroPerti](https://referal.groperti.com/)
 
 ## Languages
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=ffffff)
