@@ -1,6 +1,6 @@
 # Hi there!, I'm Ainu Azzaria 
 
-A undergraduate in Information Systems, who always expand experiences and knowledge. A well-rounded person who has an interest in the UI/UX Design. Also known as an active and hard-working college student which loves to collaborate in diverse environments. Looking for job opportunities that provide opportunities to develop into a professional career..
+A undergraduate in Information Systems student, who always expand experiences and knowledge. A well-rounded person who has an interest in the UI/UX Design. Also known as an active and hard-working college student which loves to collaborate in diverse environments. Looking for job opportunities that provide opportunities to develop into a professional career..
 
 - 20 years old
 - Domiciled [Malang, East Java, Indonesia](https://goo.gl/maps/h3RJSPyYnfh77Lgm7)
