@@ -1,6 +1,6 @@
 # Hi there!, I'm Ainu Azzaria 
 
-A undergraduate in Information Systems student, who always expand experiences and knowledge. A well-rounded person who has an interest in the UI/UX Design. Also known as an active and hard-working college student which loves to collaborate in diverse environments. Looking for job opportunities that provide opportunities to develop into a professional career..
+A undergraduate in Information Systems student, who always expand experiences and knowledge. A well-rounded person who has an interest in the UI/UX Design. Also known as an active and hard-working college student which loves to collaborate in diverse environments. Looking for job opportunities that provide opportunities to develop into a professional career.
 
 - 20 years old
 - Domiciled [Malang, East Java, Indonesia](https://goo.gl/maps/h3RJSPyYnfh77Lgm7)
@@ -19,7 +19,7 @@ A undergraduate in Information Systems student, who always expand experiences an
 </div>
 
 ## Portofolio
-- [Documentation]([https://github.com/aiinuuazzariaa](https://bit.ly/aiinuuazzariaaportfolio))
+- [Documentation](https://bit.ly/aiinuuazzariaaportfolio)
 - [Pesen Kamar](https://www.pesenkamar.com/) project by [PT. Vokasi Indonesia Sejahtera](https://vokanesia.id/)
 - [Quantum Book](https://www.quantumbook.id/) project by [PT. Vokasi Indonesia Sejahtera](https://vokanesia.id/)
 - [Ma Chung University Website Design](https://www.figma.com/design/DRmhL4vO06SnbG2B6i1FYJ/KB-3-UI---UX?node-id=338-2&t=GiDmc0EMHTWjHeRh-1)
