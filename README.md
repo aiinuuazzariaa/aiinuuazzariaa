@@ -19,7 +19,7 @@ A undergraduate in Information Systems student, who always expand experiences an
 
   <a href="https://instagram.com/portofaizar">
     <img
-      src="https://img.shields.io/badgeportofaizar-5C2D91?style=flat-square&logo=instagram&logoColor=ffffff"
+      src="https://img.shields.io/badge/portofaizar-5C2D91?style=flat-square&logo=instagram&logoColor=ffffff"
       alt="Instagram"
     />
   </a>
